@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DevsExamples\\BlazorAdventCalendar\\BlazorAdventCalendar\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\DevsExamples\\BlazorAdventCalendar\\BlazorAdventCalendar\\obj\\Debug\\net7.0\\build-gz\\Rx0EWkrK.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\DevsExamples\\BlazorAdventCalendar\\BlazorAdventCalendar\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\DevsExamples\\BlazorAdventCalendar\\BlazorAdventCalendar\\wwwroot\\images\\background-santa.jpg",
+      "PackagePath": "staticwebassets\\images\\background-santa.jpg"
+    },
+    {
+      "Id": "C:\\DevsExamples\\BlazorAdventCalendar\\BlazorAdventCalendar\\wwwroot\\images\\background-santa2.jpg",
+      "PackagePath": "staticwebassets\\images\\background-santa2.jpg"
+    },
+    {
+      "Id": "C:\\DevsExamples\\BlazorAdventCalendar\\BlazorAdventCalendar\\wwwroot\\images\\background-santa3.jpg",
+      "PackagePath": "staticwebassets\\images\\background-santa3.jpg"
+    },
+    {
+      "Id": "C:\\DevsExamples\\BlazorAdventCalendar\\BlazorAdventCalendar\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\DevsExamples\\BlazorAdventCalendar\\BlazorAdventCalendar\\wwwroot\\js\\snow.js",
+      "PackagePath": "staticwebassets\\js\\snow.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorAdventCalendar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorAdventCalendar.props",
+      "PackagePath": "build\\BlazorAdventCalendar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAdventCalendar.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAdventCalendar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorAdventCalendar.props",
+      "PackagePath": "buildTransitive\\BlazorAdventCalendar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
